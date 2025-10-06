@@ -29,8 +29,10 @@ Aqui está uma lista organizada dos meus repositórios com links, categorias e b
 
 | Projeto | Link | Descrição |
 |---|---|---|
-| Exercício de crud-cond | https://github.com/rodmig-dev/crud-cond.git | Scripts, exercícios, anotações |
+| Exercício de crud-cond| https://github.com/rodmig-dev/crud-cond.git | Script react |
 | Exercício de To do List| https://github.com/rodmig-dev/todoList.git | Script react |
-| Exercício de renderização condicional| https://github.com/rodmig-dev | Scrips em recat |
-| Exercisio de jogo da velha | https://github.com/rodmig-dev/jogo-da-velha.git | Script em React|
+| Exercício de renderização condicional| https://github.com/rodmig-dev | Script react |
+| Exercisio de jogo da velha| https://github.com/rodmig-dev/jogo-da-velha.git | Script em React|
+| Exercício de boões de estado compartilhado| https://github.com/rodmig-dev/botoes-estado-compartilhado.git|Script em React|
+
 ---
