@@ -12,7 +12,17 @@ Aqui está uma lista organizada dos meus repositórios com links, categorias e b
 | Projeto | Link | Descrição |
 |---|---|---|
 | Exercício10 Java | https://github.com/seu-usuario/java-exercicio10 | Exercício da lista de Back-end (Java) |
-| Outro Projeto Java | https://github.com/seu-usuario/outro-java | Projeto X em Java |
+
+
+---
+
+## ☕ Curso Udemy / Java Completo - Nelio Alves
+
+| Projeto | Link | Descrição |
+|---|---|---|
+| Seção 165 - Problema Exemplo | https://github.com/rodmig-dev/interface-locacao-carro.git | Aplicação de interafces |
+| Seção 139 - Exercicio de Fixação | https://github.com/rodmig-dev/abstractClasses.git | Aplicação de classes abstratas |
+
 
 ---
 
@@ -20,8 +30,7 @@ Aqui está uma lista organizada dos meus repositórios com links, categorias e b
 
 | Projeto | Link | Descrição |
 |---|---|---|
-| Dashboard Node-RED | https://github.com/seu-usuario/nodered-dashboard | Visualização com Node-RED |
-| UI Builder Projeto | https://github.com/seu-usuario/nodered-ui-builder | Interface customizada com Vue no Node-RED |
+
 
 ---
 
