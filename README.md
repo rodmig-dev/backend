@@ -1,4 +1,4 @@
-# backend
+# Projetos da Faculdade
 Repositório com todos os exercícios da matéria back-end Senai ADS 2º semestre 2025 
 
 # Meus Projetos no GitHub
@@ -25,7 +25,7 @@ Aqui está uma lista organizada dos meus repositórios com links, categorias e b
 
 ---
 
-## 📚 Outros
+## 📚 React e Front End
 
 | Projeto | Link | Descrição |
 |---|---|---|
