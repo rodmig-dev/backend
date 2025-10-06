@@ -29,7 +29,7 @@ Aqui está uma lista organizada dos meus repositórios com links, categorias e b
 
 | Projeto | Link | Descrição |
 |---|---|---|
-| Repositório de Estudos | https://github.com/seu-usuario/estudos | Scripts, exercícios, anotações |
-| Projeto Futuro | https://github.com/seu-usuario/projeto-futuro | Em desenvolvimento / ideia |
+| Exercício de crud-cond | https://github.com/rodmig-dev/crud-cond.git | Scripts, exercícios, anotações |
+
 
 ---
