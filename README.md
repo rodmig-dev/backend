@@ -11,7 +11,8 @@ Aqui está uma lista organizada dos meus repositórios com links, categorias e b
 
 | Projeto | Link | Descrição |
 |---|---|---|
-| Exercício10 Java | https://github.com/seu-usuario/java-exercicio10 | Exercício da lista de Back-end (Java) |
+| Exercício10 Java | https://github.com/seu-usuario/java-exercicio10 | Exercício da lista 1 de Back-end (Java) |
+| Exercicio09 Java | https://github.com/rodmig-dev/backend-lista-exercicio09.git | Exercício da lista 1 de Back-end (Java) |
 
 
 ---
